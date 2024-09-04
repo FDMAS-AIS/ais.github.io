@@ -16,7 +16,7 @@ title: 人工智能安全
 TODO
 ## 概要
 ### 章节内容
-1. 人工智能安全概述 [[ppt]](https://fdmas-ais.github.io/ppt/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A801-%E8%AF%BE%E7%A8%8B%E6%A6%82%E8%BF%B0.pdf)
+1. 人工智能安全概述 [[ppt]](https://fdmas-ais.github.io/ppt/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A801-%E8%AF%BE%E7%A8%8B%E6%A6%82%E8%BF%B0.pdf) [[讲义]](https://fdmas-ais.github.io/ppt/第一章.pdf)
 2. 深度学习 [[ppt]](https://fdmas-ais.github.io/ppt/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A802-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 3. 对抗样本
 4. 数据投毒
