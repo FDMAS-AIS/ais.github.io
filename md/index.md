@@ -21,7 +21,7 @@ TODO
 3. 对抗样本 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全03-对抗样本.pdf) [[参考文献]](https://fdmas-ais.github.io/ppt/第三章对抗样本.zip)
 4. 数据投毒 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全04-数据投毒.pdf) [[参考文献]](https://fdmas-ais.github.io/ppt/第四章数据投毒.zip)
 5. 后门攻防 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全05-后门攻防.pdf) [[参考文献]](https://fdmas-ais.github.io/ppt/第五章后门攻防.zip)
-6. 模型水印
+6. 模型水印 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全06-模型水印.pdf)
 8. 数据窃取
 8. 深度伪造
 8. 总结展望
