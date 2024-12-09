@@ -23,7 +23,7 @@ TODO
 5. 后门攻防 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全05-后门攻防.pdf) [[参考文献]](https://fdmas-ais.github.io/ppt/第五章后门攻防.zip)
 6. 模型水印 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全06-模型水印.pdf)
 8. 数据窃取 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全07-数据窃取.pdf)
-8. 深度伪造
+8. 深度伪造 [[ppt]](https://fdmas-ais.github.io/ppt/人工智能安全08-深度伪造.pdf)
 8. 总结展望
 
 ### 实验代码和数据
